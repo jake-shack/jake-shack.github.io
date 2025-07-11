@@ -30,3 +30,8 @@ ForEach ($thing in $things) {
     Write-Output "It highlights it using the GitHub style"
 }
 ```
+
+<div style="display: flex; gap: 10px;">
+  <img src="assets/coloring.png" alt="Chart 1" style="width: 48%;">
+  <img src="assets/How I imagine it.png" alt="Chart 2" style="width: 48%;">
+</div>
