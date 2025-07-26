@@ -29,11 +29,11 @@ This reversal revealed a deep truth: <b> growth starts with identity, not tactic
 ---
 
  <a href="https://www.psychologytoday.com/us/blog/click-here-happiness/201807/39-core-values-and-how-live-them" target="_blank" rel="noopener noreferrer">
-  <img src="/assets/psychology today.png" alt="39 Core Values" style="border-radius: 16px; max-width: 40px;" />
+  <img src="/assets/psychology today.png" alt="39 Core Values" style="border-radius: 16px; max-width: 400px;" />
 </a>
 
 ***
 
-<div style="display: flex; gap: 10px; border-radius: 25px; overflow: hidden;">
-  <img src="/assets/values-visual.png" alt="Chart 1" style="width: 400px;">
+<div style="border-radius: 24px; overflow: hidden; width: fit-content;  max-width: 400px">
+  <img src="/assets/values-visual.png" alt="Core Values Visual" style="display: block; max-width: 100%; height: auto;" />
 </div>
