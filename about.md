@@ -8,4 +8,4 @@ I’m Jake Shackelford, a Senior Product Manager at Shipt with deep experience i
 
 Outside of work, I’m always learning—whether it’s building creative tools, mentoring aspiring PMs, or exploring new ways to integrate values like authenticity, growth, and community into my leadership style.
 
-I’m passionate about using technology and insight to create smarter, more empathetic experiences—and I’m always open to opportunities to collaborate or contribute meaningfully.
+I’m passionate about using technology and insight to create smarter, more empathetic experiences, and I’m always open to opportunities to collaborate or contribute meaningfully.
